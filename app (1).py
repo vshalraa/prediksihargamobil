@@ -3,6 +3,7 @@ import streamlit as st
 import pandas as pd
 import pickle
 import numpy as np
+import scikit-learn
 
 # Konfigurasi Halaman
 st.set_page_config(
