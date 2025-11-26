@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 import pickle
 import numpy as np
-from sklearn.ensemble import AdaBoostRegressor
+
 
 # Konfigurasi Halaman
 st.set_page_config(
